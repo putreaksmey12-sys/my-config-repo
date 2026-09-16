@@ -1,6 +1,6 @@
 {
   "miya": {
-    "miya-legend": false,
+    "miya-legend": true,
     "miya-collector": true
   },
   "balmond": {
