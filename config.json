@@ -1,6 +1,6 @@
 {
   "miya": {
-    "miya-legend": true,
+    "miya-legend": false,
     "miya-collector": false,
     "miya-basic": false,
     "miya-elite": true,
