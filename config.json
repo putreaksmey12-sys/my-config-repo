@@ -1,7 +1,10 @@
 {
   "miya": {
     "miya-legend": false,
-    "miya-collector": true
+    "miya-collector": true,
+    "miya-basic": true,
+    "miya-elite": true,
+    "miya-star": true
   },
   "balmond": {
     "balmond-epic": true
